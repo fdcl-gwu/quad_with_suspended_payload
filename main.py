@@ -5,6 +5,7 @@ rho_s = [0,0,0]
 sp_dot = 0
 
 Only translational dynamics are considered
+Please refer section 5 of the document for the simplified dynamical equations
 '''
 import numpy as np
 from RK4_project import RK4 as RK4
